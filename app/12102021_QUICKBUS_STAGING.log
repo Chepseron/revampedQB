@@ -1,0 +1,80 @@
+2021-10-12 17:57:10 |254728140544|126|-----------------------Start Time::2021-10-12 17:57:10 || Phone :: 254728140544|| Input:: 3
+2021-10-12 17:57:10 |254728140544|processTheMainMenu()|251|passed the condition with status::1
+2021-10-12 17:57:10 |254728140544|login()|326|https://dev.api.quickbus.com/v1
+2021-10-12 17:57:11 |254728140544|login()|349|LOGIN REQUEST: {"key":"ussd136675",
+                                               "secret":"5gH9jWBwbq5Yt9s5uM4fuCeBvKMMrt8TZsGvkH",
+                                                "referrer":"3",
+                                               "currency":"KES",
+                                               "mobile":"254728140544"}
+2021-10-12 17:57:11 |254728140544|login()|350|LOGIN: {"expires_in":"1h","access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c3NkMTM2Njc1Iiwia2V5IjoidXNzZDEzNjY3NSIsInJvbGUiOiIiLCJtb2JpbGUiOiIyNTQ3MjgxNDA1NDQiLCJzZXNzaW9uX2lkIjoiNTRjNWIwOWYtMTZiMS00MWViLWFiYWQtOWM0ZTRhZGIwYWFmIiwiY3VycmVuY3kiOiJLRVMiLCJyZWZlcnJlciI6IjMiLCJpYXQiOjE2MzQwNTA2MzEsImV4cCI6MTYzNDA1NDIzMX0.OTUFcLUkDhdFjNLEuVOAt2TAKJziFImTVbx34ZSYGVM","session_token":"54c5b09f-16b1-41eb-abad-9c4e4adb0aaf","agent_role":""}
+2021-10-12 17:57:11 |254728140544|marketingMessage()|633|MARKETING MESSAGE: Get 20% off Buses.  Use code "QB2020" at checkout
+2021-10-12 17:57:13 |254728140544|mainMenuRegisteredCustomers()|394|marketing message Get 20% off Buses.  Use code "QB2020" at checkout
+2021-10-12 17:57:13 |254728140544|182|254728140544|1|3|null|BEGIN
+2021-10-12 17:57:13 |254728140544|1957| --Response to the Navigator ::  254728140544 --- Welcome to QuickBus.Get 20% off Buses.  Use code "QB2020" at checkout
+Choose:
+1.Book One-way
+2.Book Return
+3.Cust Services
+4.Whatsapp
+5.Refer a friend
+000.Exit   citiEs available 
+2021-10-12 17:57:13 |254728140544|1958|-----------------------Response Time::2021-10-12 17:57:13 || Phone :: 254728140544--------------------
+2021-10-12 17:57:16 |254728140544|126|-----------------------Start Time::2021-10-12 17:57:16 || Phone :: 254728140544|| Input:: 3
+2021-10-12 17:57:16 |254728140544|menuProcessor()|403| Enterered value 3
+2021-10-12 17:57:16 |254728140544|182|254728140544|3|3|{"invalidInput":"","REFFEREDNUMBER":"3","ACCESSTOKEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c3NkMTM2Njc1Iiwia2V5IjoidXNzZDEzNjY3NSIsInJvbGUiOiIiLCJtb2JpbGUiOiIyNTQ3MjgxNDA1NDQiLCJzZXNzaW9uX2lkIjoiNTRjNWIwOWYtMTZiMS00MWViLWFiYWQtOWM0ZTRhZGIwYWFmIiwiY3VycmVuY3kiOiJLRVMiLCJyZWZlcnJlciI6IjMiLCJpYXQiOjE2MzQwNTA2MzEsImV4cCI6MTYzNDA1NDIzMX0.OTUFcLUkDhdFjNLEuVOAt2TAKJziFImTVbx34ZSYGVM","SESSIONTOKEN":"54c5b09f-16b1-41eb-abad-9c4e4adb0aaf","MENU_ITEMS":"Welcome to QuickBus.Get 20% off Buses.  Use code \"QB2020\" at checkout\nChoose:\n1.Book One-way\n2.Book Return\n3.Cust Services\n4.Whatsapp\n5.Refer a friend\n000.Exit","PREVMSG":"Welcome to QuickBus.Get 20% off Buses.  Use code \"QB2020\" at checkout\nChoose:\n1.Book One-way\n2.Book Return\n3.Cust Services\n4.Whatsapp\n5.Refer a friend\n000.Exit"}|CONTINUE
+2021-10-12 17:57:16 |254728140544|1957| --Response to the Navigator ::  254728140544 ---    citiEs available 
+2021-10-12 17:57:16 |254728140544|1958|-----------------------Response Time::2021-10-12 17:57:16 || Phone :: 254728140544--------------------
+2021-10-12 18:12:44 |254728140544|126|-----------------------Start Time::2021-10-12 18:12:44 || Phone :: 254728140544|| Input:: 
+2021-10-12 18:12:44 |254728140544|processTheMainMenu()|251|passed the condition with status::1
+2021-10-12 18:12:44 |254728140544|login()|326|https://dev.api.quickbus.com/v1
+2021-10-12 18:12:45 |254728140544|login()|349|LOGIN REQUEST: {"key":"ussd136675",
+                                               "secret":"5gH9jWBwbq5Yt9s5uM4fuCeBvKMMrt8TZsGvkH",
+                                                "referrer":"",
+                                               "currency":"KES",
+                                               "mobile":"254728140544"}
+2021-10-12 18:12:45 |254728140544|login()|350|LOGIN: {"expires_in":"1h","access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c3NkMTM2Njc1Iiwia2V5IjoidXNzZDEzNjY3NSIsInJvbGUiOiIiLCJtb2JpbGUiOiIyNTQ3MjgxNDA1NDQiLCJzZXNzaW9uX2lkIjoiMjc2YmNmMTYtNGM3Yi00MzUwLWE5MWUtYzJmOGQ1YmJlZDMzIiwiY3VycmVuY3kiOiJLRVMiLCJyZWZlcnJlciI6IiIsImlhdCI6MTYzNDA1MTU2NSwiZXhwIjoxNjM0MDU1MTY1fQ.jN9lAM4URGvCCmRNGH0xXjZ5FgPyTucFMwUkRnBk738","session_token":"276bcf16-4c7b-4350-a91e-c2f8d5bbed33","agent_role":""}
+2021-10-12 18:12:46 |254728140544|marketingMessage()|633|MARKETING MESSAGE: Get 20% off Buses.  Use code "QB2020" at checkout
+2021-10-12 18:12:48 |254728140544|mainMenuRegisteredCustomers()|394|marketing message Get 20% off Buses.  Use code "QB2020" at checkout
+2021-10-12 18:12:48 |254728140544|182|254728140544|1||null|BEGIN
+2021-10-12 18:12:48 |254728140544|1957| --Response to the Navigator ::  254728140544 --- Welcome to QuickBus.Get 20% off Buses.  Use code "QB2020" at checkout
+Choose:
+1.Book One-way
+2.Book Return
+3.Cust Services
+4.Whatsapp
+5.Refer a friend
+000.Exit   citiEs available 
+2021-10-12 18:12:48 |254728140544|1958|-----------------------Response Time::2021-10-12 18:12:48 || Phone :: 254728140544--------------------
+2021-10-12 18:13:14 |254728140544|126|-----------------------Start Time::2021-10-12 18:13:14 || Phone :: 254728140544|| Input:: 
+2021-10-12 18:13:14 |254728140544|processTheMainMenu()|251|passed the condition with status::1
+2021-10-12 18:13:14 |254728140544|login()|326|https://dev.api.quickbus.com/v1
+2021-10-12 18:13:15 |254728140544|login()|349|LOGIN REQUEST: {"key":"ussd136675",
+                                               "secret":"5gH9jWBwbq5Yt9s5uM4fuCeBvKMMrt8TZsGvkH",
+                                                "referrer":"",
+                                               "currency":"KES",
+                                               "mobile":"254728140544"}
+2021-10-12 18:13:15 |254728140544|login()|350|LOGIN: {"expires_in":"1h","access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c3NkMTM2Njc1Iiwia2V5IjoidXNzZDEzNjY3NSIsInJvbGUiOiIiLCJtb2JpbGUiOiIyNTQ3MjgxNDA1NDQiLCJzZXNzaW9uX2lkIjoiYzc4NTFkNTYtYmU1Ni00YzliLWFkYzEtZmM5ZTVkMjQ0ZWVjIiwiY3VycmVuY3kiOiJLRVMiLCJyZWZlcnJlciI6IiIsImlhdCI6MTYzNDA1MTU5NSwiZXhwIjoxNjM0MDU1MTk1fQ.S6PrkFBDx7E9Uh8evJbIBpArDRA2HSkwo-FJchE70J4","session_token":"c7851d56-be56-4c9b-adc1-fc9e5d244eec","agent_role":""}
+2021-10-12 18:13:16 |254728140544|marketingMessage()|633|MARKETING MESSAGE: Get 20% off Buses.  Use code "QB2020" at checkout
+2021-10-12 18:13:18 |254728140544|mainMenuRegisteredCustomers()|394|marketing message Get 20% off Buses.  Use code "QB2020" at checkout
+2021-10-12 18:13:18 |254728140544|182|254728140544|1||null|BEGIN
+2021-10-12 18:13:18 |254728140544|1957| --Response to the Navigator ::  254728140544 --- Welcome to QuickBus.Get 20% off Buses.  Use code "QB2020" at checkout
+Choose:
+1.Book One-way
+2.Book Return
+3.Cust Services
+4.Whatsapp
+5.Refer a friend
+000.Exit   citiEs available 
+2021-10-12 18:13:18 |254728140544|1958|-----------------------Response Time::2021-10-12 18:13:18 || Phone :: 254728140544--------------------
+2021-10-12 18:13:23 |254728140544|126|-----------------------Start Time::2021-10-12 18:13:23 || Phone :: 254728140544|| Input:: 1
+2021-10-12 18:13:23 |254728140544|menuProcessor()|403| Enterered value 1
+2021-10-12 18:13:23 |254728140544|source()|916|SOURCES : https://dev.api.quickbus.com/v1/destinations/populars-cities?country_code=KE RESULTS [{"city_id":2350,"city_name":"Bomet","city_short_code":"","landing_page_mobile_code":null,"country_code":"KE","popular_priority":"2"},{"city_id":3,"city_name":"Kampala","city_short_code":"KLA","landing_page_mobile_code":254,"country_code":"UG","popular_priority":"1"},{"city_id":117,"city_name":"Kisii","city_short_code":"","landing_page_mobile_code":null,"country_code":"KE","popular_priority":"1"},{"city_id":22,"city_name":"Mombasa","city_short_code":"MSA","landing_page_mobile_code":null,"country_code":"KE","popular_priority":"4"},{"city_id":1,"city_name":"Nairobi","city_short_code":"NRB","landing_page_mobile_code":null,"country_code":"KE","popular_priority":"5"}]
+2021-10-12 18:13:23 |254728140544|182|254728140544|3|1|{"invalidInput":"","REFFEREDNUMBER":"","ACCESSTOKEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c3NkMTM2Njc1Iiwia2V5IjoidXNzZDEzNjY3NSIsInJvbGUiOiIiLCJtb2JpbGUiOiIyNTQ3MjgxNDA1NDQiLCJzZXNzaW9uX2lkIjoiYzc4NTFkNTYtYmU1Ni00YzliLWFkYzEtZmM5ZTVkMjQ0ZWVjIiwiY3VycmVuY3kiOiJLRVMiLCJyZWZlcnJlciI6IiIsImlhdCI6MTYzNDA1MTU5NSwiZXhwIjoxNjM0MDU1MTk1fQ.S6PrkFBDx7E9Uh8evJbIBpArDRA2HSkwo-FJchE70J4","SESSIONTOKEN":"c7851d56-be56-4c9b-adc1-fc9e5d244eec","MENU_ITEMS":"Welcome to QuickBus.Get 20% off Buses.  Use code \"QB2020\" at checkout\nChoose:\n1.Book One-way\n2.Book Return\n3.Cust Services\n4.Whatsapp\n5.Refer a friend\n000.Exit","PREVMSG":"Welcome to QuickBus.Get 20% off Buses.  Use code \"QB2020\" at checkout\nChoose:\n1.Book One-way\n2.Book Return\n3.Cust Services\n4.Whatsapp\n5.Refer a friend\n000.Exit"}|CONTINUE
+2021-10-12 18:13:23 |254728140544|1957| --Response to the Navigator ::  254728140544 ---  Choose city you are travelling from or type name
+1 Bomet
+2 Kampala
+3 Kisii
+4 Mombasa
+5 Nairobi
+00. Return to menu   citiEs available 
+2021-10-12 18:13:23 |254728140544|1958|-----------------------Response Time::2021-10-12 18:13:23 || Phone :: 254728140544--------------------
